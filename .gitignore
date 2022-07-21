@@ -1,0 +1,5 @@
+.idea
+venv
+*.pyc
+*.egg-info
+db.sqlite3
